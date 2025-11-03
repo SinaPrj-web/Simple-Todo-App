@@ -439,7 +439,14 @@ body {
   margin-bottom: 10px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
   transition: background 0.3s ease, transform 0.2s ease;
-  min-width: 80%;
+  width: 80%;
+  overflow: hidden;
+  word-break: break-word;
+}
+.todo label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .todo:hover {
@@ -498,6 +505,7 @@ body {
   letter-spacing: 0.3px;
   transition: color 0.3s ease, text-decoration 0.3s ease;
   font-family: medium;
+  line-height: 1.4;
 }
 
 .todo-checkbox:checked ~ .todo-text {
