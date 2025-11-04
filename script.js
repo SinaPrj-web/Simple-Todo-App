@@ -27,6 +27,20 @@ window.addEventListener('DOMContentLoaded' , function () {
 
 
 
+TodoContainer.addEventListener('change' , function (e) {
+    if(e.target.classList.contains('todo-checkbox')) {
+        const text = e.target.nextElementSibling.nextElementSibling.textContent.trim();
+        let todos = JSON.parse(localStorage.getItem('todo')) || []
+
+        todos = todos.map(todo => 
+            todo.text ===   text ? {...todo , completed: e.target.checked } : todo
+        )
+        localStorage.setItem('todo' , JSON.stringify(todos))
+    }
+})
+
+
+
 function addTodoToList () {
     let todoValue = inputText.value.trim()
     const existingTodos = JSON.parse(localStorage.getItem('todo')) || []
@@ -49,8 +63,8 @@ function addTodoToList () {
                         <label>
                           <input class="todo-checkbox" type="checkbox">
                           <span class="checkmark"></span>
+                          <span class="todo-text">${todoValue}</span>
                         </label>
-                        <span class="todo-text">${todoValue}</span>
                       </li>`
 
     TodoContainer.insertAdjacentHTML("beforeend" , todoHtml)
