@@ -53,10 +53,15 @@ cd Simple-Todo-App
 💡 Future Improvements
 
 Add dark mode 🌙
+
 Enable editing of existing tasks ✏️
+
 Add due dates and reminders ⏰
+
 👤 Author
+
 Sina Prj
+
 GitHub: @SinaPrj-web
 
 ⭐ If you like this project, give it a star on GitHub! ⭐
