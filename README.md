@@ -7,7 +7,7 @@ Add, edit, and delete your daily tasks with an elegant interface — all running
 
 ## 🌐 Live Demo
 
-🔗 [View on GitHub Pages]([https://sinaprj-web.github.io/Simple-Todo-App/](https://sinaprj-web.github.io/Simple-Todo-App/)](https://sinaprj-web.github.io/Simple-Todo-App))
+🔗 [View on GitHub Pages](https://sinaprj-web.github.io/Simple-Todo-App)
 
 ---
 
