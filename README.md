@@ -13,7 +13,7 @@ Add, edit, and delete your daily tasks with an elegant interface — all running
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
