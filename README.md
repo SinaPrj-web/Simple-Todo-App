@@ -61,6 +61,6 @@ Add due dates and reminders ⏰
 
 Sina Prj
 
-GitHub: ![githubpage](https://github.com/SinaPrj-web)
+GitHub: (https://github.com/SinaPrj-web)
 
 ⭐ If you like this project, give it a star on GitHub! ⭐
