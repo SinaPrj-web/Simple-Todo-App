@@ -14,7 +14,6 @@ Add, edit, and delete your daily tasks with an elegant interface — all running
 ## 📸 Screenshot
 
 ![App Screenshot](./screenshot.png)
-> *(Replace this image path with your actual screenshot file name — e.g. `assets/todo-preview.png` if you store it in an assets folder.)*
 
 ---
 
@@ -62,6 +61,6 @@ Add due dates and reminders ⏰
 
 Sina Prj
 
-GitHub: @SinaPrj-web
+GitHub: ![githubpage](https://github.com/SinaPrj-web)
 
 ⭐ If you like this project, give it a star on GitHub! ⭐
