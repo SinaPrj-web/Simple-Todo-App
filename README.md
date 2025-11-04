@@ -48,6 +48,7 @@ git clone https://github.com/SinaPrj-web/Simple-Todo-App.git
 cd Simple-Todo-App
 
 # open index.html in your browser
+```
 
 💡 Future Improvements
 
