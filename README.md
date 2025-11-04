@@ -2,6 +2,7 @@
 
 A minimal and clean **Todo List App** built with HTML, CSS, and JavaScript.  
 Add, edit, and delete your daily tasks with an elegant interface — all running directly in your browser.
+NOTE: This project is for training and still haave bugs.
 
 ---
 
